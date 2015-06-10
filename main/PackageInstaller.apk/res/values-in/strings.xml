@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caller_app">Permintaan izin dari %1$s</string>
+    <string name="safe_guard_support">Dukungan teknis oleh %1$s</string>
+    <string name="safe_relative">Keamanan</string>
+    <string name="privacy_relative">Privasi</string>
+    <string name="other_relative">Lainnya</string>
+    <string name="perm_notice">Peringatan</string>
+    <string name="trust_switch_dialog_msg">Tidak akan bertanya ke Anda saat apl ini akses ke kontak, pesan, sandi, atau bagian lain dari sistem.</string>
+    <string name="auto_startup_dialog_msg">Apl ini dpt mulai tanpa izin dari Anda.</string>
+    <string name="low_risk_perms">Perizinan risiko rendah</string>
+    <string name="high_risk_perms">Perizinan risiko tinggi</string>
+    <string name="perm_privacy_app_finish">Oke</string>
+    <string name="perm_privacy_app_launch">Luncurkan</string>
+    <string name="perm_privacy_app_installed">Apl terinstal</string>
+    <string name="perm_sysopt_boost_auto_start">Izin mulai otomatis</string>
+    <string name="perm_sysopt_boost_auto_start_summary">Apl ini dapat mulai otomatis</string>
+    <string name="perm_privacy_app_trust">Tanya utk perizinan</string>
+    <string name="perm_privacy_app_trust_summary">Tanya saya jika apl ini mencoba akses bagian lain dari sistem</string>
+    <string name="perm_action_accept">Izinkan</string>
+    <string name="perm_action_prompt">Tanya</string>
+    <string name="perm_action_reject">Tolak</string>
+    <string name="unknown_installer">Alat PC tdk teridentifikasi</string>
+    <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) akan menggantikan versi terinstal sekarang (%3$s). Seluruh data pengguna akan disimpan.</string>
+    <string name="lift_ban">Izinkan</string>
+    <string name="uninstall_confirm_question">Uninstal apl ini?</string>
+    <string name="uninstall_failed_retained_app_msg">Tidak dapat uninstal apl.</string>
+    <string name="install_failed_system_incompatible">Apl ini tdk kompatibel dgn MIUI</string>
+    <string name="permission_group_title_charges_related">Telepon</string>
+    <string name="permission_group_title_privacy_related">Privasi</string>
+    <string name="permission_group_title_media_related">Media</string>
+    <string name="permission_group_title_settings_related">Setelan</string>
+    <string name="permission_group_title_others">Lainnya</string>
+    <string name="permission_action_accept">Terima</string>
+    <string name="permission_action_prompt">Tanya</string>
+    <string name="permission_action_reject">Tolak</string>
+    <string name="permission_send_sms_descx">Apl dpt mengirim SMS dan MMS</string>
+    <string name="virus_scan_install"><u>Tetap instal</u></string>
+    <string name="virus_scan_is_virus">Apl ini mengandung virus.</string>
+    <string name="virus_scan_is_risk">Apl ini berisiko utk keamanan perangkat Anda.</string>
+    <string name="virus_scan_clear">Hapus</string>
+    <string name="virus_scan_caller_unknown">Tak diketahui</string>
+    <string name="app_name">Pemasang paket</string>
+    <string name="install">Pasang</string>
+    <string name="done">Selesai</string>
+    <string name="security_settings_desc">Izinkan aplikasi ini untuk:</string>
+    <string name="cancel">Batal</string>
+    <string name="unknown">Tidak diketahui</string>
+    <string name="installing">Memasang...</string>
+    <string name="install_done">Aplikasi terpasang</string>
+    <string name="install_confirm_question">Anda ingin memasang aplikasi ini?</string>
+    <string name="install_failed">Aplikasi tidak terpasang</string>
+    <string name="install_failed_invalid_apk">Paket tampaknya rusak.</string>
+    <string name="install_failed_inconsistent_certificates">Terdapat paket bernama sama, namun dengan tanda tangan berbeda, yang sudah terpasang.</string>
+    <string name="install_failed_older_sdk">Paket hanya bekerja pada versi Android yang lebih baru.</string>
+    <string name="install_failed_cpu_abi_incompatible">Aplikasi ini tidak kompatibel dengan CPU ponsel ini.</string>
+    <string name="install_failed_file_not_found">Paket yang ditentukan dihapus sebelum pemasangan selesai.</string>
+    <string name="install_failed_verify_failed">Paket ini tidak lulus verifikasi dan tidak dapat dipasang.</string>
+    <string name="install_failed_verify_timeout">Terjadi kehabisan waktu saat mencoba memverifikasi paket ini. Coba pasang lagi nanti.</string>
+    <string name="install_failed_msg">%1$s tidak dapat dipasang pada ponsel ini.</string>
+    <string name="launch">Buka</string>
+    <string name="unknown_apps_dlg_title">Pemasangan dicekal</string>
+    <string name="unknown_apps_dlg_text">Untuk keamanan, ponsel Anda disetel untuk mencekal pemasangan aplikasi yang tidak diperoleh dari Android Market.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Setelan</string>
+    <string name="allow_source_dlg_title">Izinkan sumber daya baru untuk apl?</string>
+    <string name="allow_source_dlg_text">"%1$s ingin memasang apl lain.
+
+Izinkan hal ini sekarang dan di waktu mendatang?"</string>
+    <string name="manage_applications">Kelola aplikasi</string>
+    <string name="dlg_app_replacement_title">Ganti aplikasi</string>
+    <string name="dlg_app_replacement_statement">"Aplikasi yang sedang Anda pasang akan menggantikan aplikasi lain. 
+
+Semua data pengguna sebelumnya akan disimpan."</string>
+    <string name="dlg_sys_app_replacement_statement">"Ini adalah suatu aplikasi sistem. Tetap ganti? 
+
+ Semua data pengguna data akan disimpan."</string>
+    <string name="out_of_space_dlg_title">Kehabisan ruang penyimpanan</string>
+    <string name="out_of_space_dlg_text">%1$s tidak dapat dipasang. Kosongkan sebagian ruangan dan coba lagi.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Aplikasi tidak ditemukan</string>
+    <string name="app_not_found_dlg_text">Aplikasi tersebut tidak ditemukan di dalam daftar aplikasi terpasang.</string>
+    <string name="uninstall_application_title">Copot Pemasangan Aplikasi</string>
+    <string name="uninstall_update_title">Copot pembaruan</string>
+    <string name="uninstall_activity_text">%1$s adalah bagian dari aplikasi berikut:</string>
+    <string name="uninstall_application_text">Aplikasi ini akan dicopot pemasangannya.</string>
+    <string name="uninstall_update_text">Aplikasi akan dihapus dengan versi pabrik.</string>
+    <string name="uninstalling">Mencopot pemasangan...</string>
+    <string name="uninstall_done">Pencopotan selesai.</string>
+    <string name="uninstall_failed">Gagal mencopot pemasangan</string>
+    <string name="uninstall_failed_device_policy_manager">Tidak dapat mencopot: paket ini adalah administrator perangkat yang aktif.</string>
+    <string name="manage_device_administrators">Kelola administrator perangkat</string>
+    <string name="uninstall_failed_msg">%1$s tidak dapat dicopot</string>
+    <string name="Parse_error_dlg_title">Galat parse</string>
+    <string name="Parse_error_dlg_text">Ada masalah saat mengurai paket.</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Data Wi-Fi</item>
+        <item>Semua apl</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Browser</item>
+        <item>Perizinan</item>
+        <item>Kamera</item>
+        <item>Penggunaan data</item>
+        <item>Data cuaca</item>
+        <item>Cuaca</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Kontak</item>
+        <item>Riwayat panggilan</item>
+        <item>Pesan</item>
+        <item>Pesan multimedia</item>
+        <item>Setelan sistem</item>
+        <item>Setelan Wi-Fi</item>
+        <item>Susunan Layar utama</item>
+        <item>Setelan alarm</item>
+        <item>Catatan</item>
+        <item>Jangan ganggu</item>
+        <item>Akun</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Data</item>
+        <item>Apl</item>
+        <item>Apl dan data</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Kontak</item>
+        <item>Riwayat panggilan</item>
+        <item>Pesan</item>
+        <item>Setelan Wi-Fi</item>
+        <item>Catatan</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Kontak</item>
+        <item>Setelan Wi-Fi</item>
+        <item>Catatan</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Riwayat panggilan</item>
+        <item>Pesan</item>
+    </string-array>
+</resources>

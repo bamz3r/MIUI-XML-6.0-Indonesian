@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Layanan Nfc</string>
+    <string name="nfcUserLabel">Nfc</string>
+    <string name="inbound_me_profile_title">Kontak yang diterima lewat NFC</string>
+    <string name="inbound_me_profile_text">Sentuh untuk menambahkan orang ini sebagai kontak.</string>
+    <string name="outbound_me_profile_title">Interaksi NFC lengkap</string>
+    <string name="outbound_me_profile_text">Sentuh untuk memberikan orang ini info kontak Anda.</string>
+    <string name="accessibility_nfc_enabled">NFC diaktifkan.</string>
+    <string name="touch">Sentuh untuk menyorot</string>
+    <string name="beam_progress">Pancaran yang masuk...</string>
+    <string name="beam_complete">Beam selesai</string>
+    <string name="beam_failed">Beam tidak lengkap</string>
+    <string name="beam_canceled">Beam dibatalkan</string>
+    <string name="cancel">Batal</string>
+    <string name="beam_touch_to_view">Sentuh untuk melihat</string>
+    <string name="beam_handover_not_supported">Perangkat penerima tidak mendukung transfer file besar melalui beam.</string>
+    <string name="connecting_headset">Menyambungkan</string>
+    <string name="connected_headset">Tersambung</string>
+    <string name="connect_headset_failed">Tidak dapat menyambung</string>
+    <string name="disconnecting_headset">Memutuskan</string>
+    <string name="disconnected_headset">Terputus</string>
+    <string name="pairing_headset">Menyandingkan</string>
+    <string name="pairing_headset_failed">Tidak dapat menyandingkan</string>
+    <string name="failed_to_enable_bt">Tidak dapat mengaktifkan Bluetooth</string>
+    <string name="confirm_pairing">Yakin ingin menyandingkan perangkat Bluetooth %1$s?</string>
+    <string name="pair_yes">Ya</string>
+    <string name="pair_no">Tidak</string>
+</resources>

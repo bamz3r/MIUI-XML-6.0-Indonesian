@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Cerah</item>
+        <item>Berawan</item>
+        <item>Mendung</item>
+        <item>Berkabut</item>
+        <item>Hujan badai berat</item>
+        <item>Hujan deras</item>
+        <item>Hujan badai</item>
+        <item>Badai petir</item>
+        <item>Hujan lebat</item>
+        <item>Hujan deras</item>
+        <item>Hujan sedang</item>
+        <item>Hujan ringan</item>
+        <item>Hujan dan salju</item>
+        <item>Badai salju</item>
+        <item>Salju</item>
+        <item>Salju lebat</item>
+        <item>Salju sedang</item>
+        <item>Salju ringan</item>
+        <item>Badai pasir kuat</item>
+        <item>Badai pasir</item>
+        <item>Pasir</item>
+        <item>Berangin</item>
+        <item>Hujan es</item>
+        <item>Debu</item>
+        <item>Kabut</item>
+        <item>Hujan yg dingin</item>
+        <item>Tak ada data</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Terlemah</item>
+        <item>Lemah</item>
+        <item>Sedang</item>
+        <item>Kuat</item>
+        <item>Terkuat</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Angin U</item>
+        <item>Angin TL</item>
+        <item>Angin T</item>
+        <item>Angin TG</item>
+        <item>Angin S</item>
+        <item>Angin BD</item>
+        <item>Angin B</item>
+        <item>Angin BL</item>
+    </string-array>
+</resources>

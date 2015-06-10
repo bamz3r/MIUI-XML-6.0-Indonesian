@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d lagu ditemukan</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d hari tersisa</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d lagu akan diunduh</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d baru</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d lagu</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d lagu yang mirip</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d lagu ditambahkan ke daftar putar</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d lagu dihapus dari daftar putar</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d lagu</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d lagu akan dikirim</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d lagu</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d lagu ditambahkan</item>
+    </plurals>
+</resources>

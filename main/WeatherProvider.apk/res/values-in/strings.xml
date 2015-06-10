@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Penyedia cuaca</string>
+    <string name="aqi_quality_index_pure">IKU %1$s</string>
+    <string name="aqi_quality_index_good">IKU %1$s</string>
+    <string name="aqi_quality_index_moderate">IKU %1$s</string>
+    <string name="aqi_quality_index_light_pollution">IKU %1$s</string>
+    <string name="aqi_quality_index_unhealthy">IKU %1$s</string>
+    <string name="aqi_quality_index_dangerous">IKU %1$s</string>
+    <string name="aqi_quality_index_hazardous">IKU %1$s</string>
+    <string name="aqi_quality_index_break">IKU %1$s</string>
+    <string name="view_indexes_wind_unit">km/j</string>
+</resources>

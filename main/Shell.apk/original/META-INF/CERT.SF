@@ -1,0 +1,19 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: +cBzBIWMo3tmvqKcO8GesMKIsPY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: HEaHuOeg3TNc0cxdUnYKIpCSNXs=
+
+Name: res/xml/file_provider_paths.xml
+SHA1-Digest: PdvtkdlLFU56HXJNz//MM+3PimY=
+
+Name: resources.arsc
+SHA1-Digest: FPwUR/gBQ5I566tJgmq+Y7IbC9k=
+
+Name: classes.dex
+SHA1-Digest: Qo4AGhSqDoFWg/CZeUxvRE69jes=
+
+Name: res/layout/confirm_repeat.xml
+SHA1-Digest: EH3Ki1E0vU8645QKAcVl09kDjI8=
+
